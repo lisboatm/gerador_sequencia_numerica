@@ -40,9 +40,14 @@ Para cada número `i` de 1 até `N`, são geradas duas linhas:
 2. Execute o programa em um terminal ou ambiente Python.
 3. Insira um valor para `N` conforme solicitado.
 
-```python
-# Exemplo de execução
-python nome_do_arquivo.py
+### Arquivo
+
+O nome do arquivo para o código deve ser **`gerador_sequencia_numerica.py`**.
+
+Execute com:
+
+```bash
+python gerador_sequencia_numerica.py
 ```
 
 O programa exibirá as `N * 2` linhas de saída com os valores calculados.
